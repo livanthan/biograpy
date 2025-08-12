@@ -1,0 +1,88 @@
+.all{
+    border-radius: 25px; 
+    background-attachment: fixed;
+    background-size: cover;
+   
+    width: 95%;
+    height: 650%;
+    background-image: url(./ultra-instinct-goku-.jpg);
+    
+}
+.bio{
+    position: relative;
+    top:0%;
+    bottom:0%;
+    left:43%;
+    right: 0%;
+    font-family: "Figtree", sans-serif;
+    font-size: 50px;
+    color: rgb(113, 113, 242);
+     text-shadow: 5px 5px 3px bisque;
+}
+.all,h1{
+    font-family: Arial;
+    font-size: 30px;
+    color:rgb(255, 255, 255);
+    padding: 40px;
+    text-shadow: 3px 3px 2px bisque;
+}
+.wish,h1{
+    font-style: inherit;
+    color: goldenrod
+}
+.all,img{
+        border-radius: 50px;
+        box-shadow: 5px 5px 10px bisque;
+        margin: 20px;
+    
+}
+#main1{
+    position: absolute;
+    right: 5%;
+    left :62%;
+    top: 59%;
+    bottom:-24.5%;
+    border-radius: 50px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+#main2{
+    position: absolute;
+    right:5%;
+    left:62%;
+    top:151.5%;
+    bottom:-149.5%;
+    border-radius: 50px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+#main3{
+    background-color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    right:5%;
+    left:62%;
+    top:276.5%;
+    bottom:-275%;
+    border-radius: 50px;
+}
+#main4{
+    background-color:rgba(255, 255, 255, 0.5);
+    position: absolute;
+    right:5%;
+    left:62%;
+    top:402%;
+    bottom:-400%;
+    border-radius: 50px;
+}
+.all,p{
+     font-family:initial;
+     color: rgb(255, 63, 63);
+}
+#main5{
+   background-color: rgba(255, 255, 255, 0.5);
+   position: absolute;
+    right:5%;
+    left:62%;
+    top:527%;
+    bottom:-525%;
+    border-radius: 50px;
+
+}
